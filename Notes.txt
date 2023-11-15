@@ -1,0 +1,5 @@
+Creating weather app using Rapid-API. 
+
+Extensions used are:
+1) Rapid API Client
+2) Live server (For automatic reload of browser and opening our HTML files)
